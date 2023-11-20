@@ -1,4 +1,4 @@
-apiVersion: database.example.com/v1alpha1
+apiVersion: database.mscs-idp.com/v1alpha1
 kind: NoSQL
 metadata:
   name: my-nosql-database
