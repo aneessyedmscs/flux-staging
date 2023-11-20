@@ -1,6 +1,0 @@
-apiVersion: database.mscs-idp.com/v1alpha1
-kind: NoSQL
-metadata:
-  name: my-nosql-database
-spec:
-  location: "US"
